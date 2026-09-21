@@ -99,7 +99,7 @@ The dashboard KPI (57.31%) and the delivery-outcome donut (54.82%) use different
 
 Single-page interactive dashboard built on the validated SQL/Python findings.
 
-![Supply Chain Performance & Operational Efficiency](./Screenshot%202026-09-21%20121434.png)
+![Supply Chain Dashboard](supply_chain_dashboard.png)
 
 **KPIs:** Total Orders (65.752K) · Late Orders (36.048K) · Late Delivery Rate (57.31%) · Avg Actual Shipping (3.50 days)
 
