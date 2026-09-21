@@ -112,3 +112,31 @@ Single-page interactive dashboard built on the validated SQL/Python findings.
 ---
 
 ## Repository Structure
+
+```text
+Dataco-Supply-Chain-Analytics/
+│
+├── data/
+│   ├── DescriptionDataCoSupplyChain.csv
+│   └── tokenized_access_logs.csv
+│
+├── sql/
+│   ├── create_database.py
+│   ├── import_data.py
+│   └── run_query.py
+│
+├── .gitignore
+├── 01_supply_chain_analysis.ipynb
+├── README.md
+└── supply_chain_dashboard.png
+
+
+---
+
+## Author
+
+**Saran T**  
+MBA
+
+🔗 Linkdin  https://www.linkedin.com/in/saran-t-297b25290
+
