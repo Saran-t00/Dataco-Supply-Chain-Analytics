@@ -130,12 +130,3 @@ Dataco-Supply-Chain-Analytics/
 ├── README.md
 └── supply_chain_dashboard.png
 
-
----
-
-## Author
-
-**Saran T**  
-MBA
-
-🔗 [LinkedIn](https://www.linkedin.com/in/saran-t-297b25290)
