@@ -138,5 +138,4 @@ Dataco-Supply-Chain-Analytics/
 **Saran T**  
 MBA
 
-🔗 Linkdin  https://www.linkedin.com/in/saran-t-297b25290
-
+🔗 [LinkedIn](https://www.linkedin.com/in/saran-t-297b25290)
